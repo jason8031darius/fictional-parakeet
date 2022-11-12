@@ -1,0 +1,12 @@
+body{
+    background-size: cover;
+    background-position: center;
+}
+#leo{
+    border-radius: 12px;
+    width: 300px;
+}
+.back{
+    text-align: right;
+    color: black;
+}

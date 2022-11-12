@@ -1,0 +1,14 @@
+body{
+    text-align: center;
+}
+.title{
+    font-size: 25px;
+    text-align: center;
+}
+#mac{
+    text-align: right;
+}
+canvas{
+    border-radius: 25px;
+    box-shadow: 30, 30, 30 gray;
+}
